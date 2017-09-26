@@ -28,7 +28,7 @@ namespace AnotherFunctionApp
             //// Set name to query string or body data
             //name = name ?? data?.name;
 
-            return req.CreateResponse(HttpStatusCode.OK, new StringContent(JsonConvert.SerializeObject(new { result = Calculation.Multiply(37 * 21) })));
+            return req.CreateResponse(HttpStatusCode.OK, new StringContent(JsonConvert.SerializeObject(new { result = Calculation.Multiply(37 , 21) })));
         }
     }
 }
