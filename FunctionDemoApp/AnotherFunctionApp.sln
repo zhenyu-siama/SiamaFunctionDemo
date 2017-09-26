@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnotherFunctionApp", "AnotherFunctionApp\AnotherFunctionApp.csproj", "{CB9E9627-B62F-4E11-904E-E7F8FA0BB0F4}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionDemoApp", "FunctionDemoApp\FunctionDemoApp.csproj", "{117E40B2-48D3-4507-B11D-AA94C8444937}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAlgorithm", "DemoAlgorithm\DemoAlgorithm.csproj", "{B99F0B4E-2739-4A07-8DD1-150EDC649CA8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomethingElse", "SomethingElse\SomethingElse.csproj", "{B1BAE38D-40D3-4E07-98BA-A7DAEE96A6D1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnotherFunctionApp", "AnotherFunctionApp\AnotherFunctionApp.csproj", "{CB9E9627-B62F-4E11-904E-E7F8FA0BB0F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
